@@ -1,9 +1,9 @@
 ---
-title: RatAoGiac RAG Chatbot
-emoji: 🐀
-colorFrom: red
-colorTo: blue
-sdk: streamlit
+title: "RatAoGiac RAG Chatbot"
+emoji: "🐀"
+colorFrom: "red"
+colorTo: "blue"
+sdk: "streamlit"
 sdk_version: "1.32.2"
 app_file: app.py
 pinned: false
