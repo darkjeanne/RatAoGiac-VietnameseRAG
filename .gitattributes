@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
+# Set default behavior to automatically normalize line endings
 * text=auto
+# Jupyter notebooks
+*.ipynb filter=dropoutput
+# Python
+*.py linguist-language=Python
+# UTF-8 encoding for text files
+*.txt text eol=lf
+*.md text eol=lf
+# Treat requirements as text
+requirements.txt text 
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
