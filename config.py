@@ -8,7 +8,7 @@ GOOGLE_API_KEY = "AIzaSyBc7AuBLTYH1aGb0sk2MExIcEuT1vf1Cs0"
 embedding_model_name = "bkai-foundation-models/vietnamese-bi-encoder"
 cohere_reranking_model_name = "rerank-multilingual-v3.0"
 ollama_model_name = "llama3:8b-instruct-q4_0"
-device = "cuda"
+device = "cpu"
 
 # Cấu hình chunking
 PARENT_CHUNK_SIZE = 2000

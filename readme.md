@@ -1,3 +1,14 @@
+---
+title: RatAoGiac RAG Chatbot
+emoji: 🐀
+colorFrom: red
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.32.2"
+app_file: app.py
+pinned: false
+---
+
 # Rất Ảo Giác - Vietnamese RAG Chatbot
 
 Dự án này là thành quả của nhóm trong bài tập lớn môn Deep Learning (2425II_AIT3001*_1). Nhóm xin gửi lời cảm ơn chân thành đến thầy Triệu Hải Long đã tận tình hướng dẫn, đồng hành với chúng em trong suốt quá trình thực hiện dự án.
