@@ -1,5 +1,5 @@
 ---
-title: "RatAoGiac RAG Chatbot"
+title: "RAG"
 emoji: "🐀"
 colorFrom: "red"
 colorTo: "blue"
