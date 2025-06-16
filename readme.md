@@ -9,6 +9,8 @@ app_file: app.py
 pinned: false
 ---
 
+[doc](https://docs.google.com/document/d/1JgFa-yZ-Bz_SyAq-5Hys2kKD5B4D8uK31oWhGEShrMw/edit?usp=sharing)
+[pptx](https://docs.google.com/presentation/d/1Vx7SjbXEJYPe7cF_0xskG_QhVXhlF6dgDjGdkOPRv5M/edit?usp=sharing)
 # Rất Ảo Giác - Vietnamese RAG Chatbot
 
 Dự án này là thành quả của nhóm trong bài tập lớn môn Deep Learning (2425II_AIT3001*_1). Nhóm xin gửi lời cảm ơn chân thành đến thầy Triệu Hải Long đã tận tình hướng dẫn, đồng hành với chúng em trong suốt quá trình thực hiện dự án.
